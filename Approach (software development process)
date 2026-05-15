@@ -1,1 +1,29 @@
+Approach: Software Engineering Process (Agile)
+We adopted the Agile software development methodology for the KAUEats project. Agile is an iterative and incremental approach that focuses on delivering working software quickly, adapting to changing requirements, and continuous collaboration among team members.
 
+The Agile process consists of the following steps:
+
+Step 1: Requirements Gathering and Prioritization
+We collected the main functional requirements for KAUEats (e.g., displaying the daily menu, selecting a pickup time, handling payment, generating a tracking number, sorting orders). We prioritized them based on importance and project constraints. Only the highest‑priority requirements were implemented in the first iteration.
+
+Step 2: Iteration Planning (Sprint Planning)
+We divided the project into short iterations (typically one week each). For each iteration, we selected a small set of requirements to complete. We defined clear goals for that iteration and estimated the effort needed.
+
+Step 3: Design and Development
+For each selected requirement, we performed a lightweight design (e.g., simple class diagrams, user interface sketches). Then we implemented the code in Java (as required by CPIT 251). We followed good coding practices such as modularity and meaningful naming.
+
+Step 4: Testing
+After completing the implementation for an iteration, we tested the new features. We performed unit testing for individual functions (e.g., verifying that a 6‑digit tracking number is generated) and integration testing to ensure that new code works with existing features. Bugs were fixed immediately.
+
+Step 5: Review and Feedback
+At the end of each iteration, we reviewed the working software as a team. We discussed what went well, what could be improved, and any changes in requirements. This feedback was used to adjust the plan for the next iteration.
+
+Step 6: Release
+After the final iteration, we delivered a complete working version of KAUEats containing the four required core functions. The software was thoroughly tested and documented.
+
+Why Agile for KAUEats?
+Flexibility: Requirements could be adjusted between iterations (e.g., changing the pickup time range from 08:00‑16:00 to 08:00‑17:00 if needed).
+
+Early delivery: The most important features (menu display and ordering) were working early, reducing project risk.
+
+Small team suitability: Our team of 4‑5 members could communicate easily and make decisions quickly.
