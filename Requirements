@@ -1,0 +1,16 @@
+
+Functional Requirements
+Functional requirements describe what the system does.
+•	The KAUESSEN system shall display the daily food items and their prices to the customer. 
+•	The customer shall be able to choose a specific pickup time between 08:00 and 16:00. 
+•	The KAUESSEN system shall handle the payment using the student ID balance or a credit card. 
+•	The KAUESSEN system shall generate a unique 6-digit tracking number for each order. 
+•	The KAUESSEN system shall sort the active orders on the staff dashboard in chronological order by pickup time. 
+
+Non-Functional Requirements
+Non-functional requirements define the system constraints. These requirements should be measurable and quantifiable.
+•	The KAUESSEN system shall load the daily menu page within 2 seconds on a standard 4G network. 
+•	The system should support up to 500 concurrent users without system failure. 
+•	The system should maintain 99% uptime during university hours (07:00–17:00). 
+•	The system should encrypt all customer payment data. 
+•	The system should perform daily database backups at 23:00. 
