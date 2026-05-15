@@ -1,1 +1,5 @@
+Abstract
+The main dining hall of King Abdulaziz University is the pulse of the university. However, the university restaurant is facing delays and congestion, especially during peak times. The project proposes a web-based application called KAUEssen that will allow students and staff to order their food online to reduce the waiting time. The application will have two different interfaces: the Student Interface and the Restaurant Interface.
 
+Introduction
+The university is a fast-paced environment where students have only a few minutes to grab a bite to eat between lectures. The existing system requires the customer to queue twice: once to place the order and a second time to collect the order. This is inefficient and results in the customer missing a meal or reaching the lecture late. The project KAUEats will revolutionize the university restaurant by applying software engineering principles to develop a web-based application that will improve the university restaurant service.
