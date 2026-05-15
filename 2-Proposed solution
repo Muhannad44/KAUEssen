@@ -1,1 +1,7 @@
 
+Proposed Solution
+The proposed solution is to separate the order and the pickup to improve the university restaurant service. The proposed solution is a web-based application that will have two different interfaces: the Student Interface and the Restaurant Interface.
+Student Interface:
+1.	Remote Ordering: The customer will be able to access the restaurant menu on their laptops or mobile devices.
+2.	Pre-Ordering: The customer will be able to place their orders and select the time to pick up the orders, for example, “Pickup at 1:00 PM.”
+3.	Real-Time Status: The customer will be able to know the status of their orders by clicking on the “Status” option. The status will be updated to “Received,” “Preparing,” and “Ready.”
